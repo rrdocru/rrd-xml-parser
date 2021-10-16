@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-03-21 15:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: rrd_xml_parser\parsers\names.py:5 rrd_xml_parser\parsers\names.py:16
+msgid "Parcel"
+msgstr "ЗУ"
+
+#: rrd_xml_parser\parsers\names.py:6 rrd_xml_parser\parsers\names.py:17
+msgid "SubParcel"
+msgstr "ЧЗУ"
+
+#: rrd_xml_parser\parsers\names.py:7 rrd_xml_parser\parsers\names.py:18
+msgid "Building"
+msgstr "Здание"
+
+#: rrd_xml_parser\parsers\names.py:8 rrd_xml_parser\parsers\names.py:19
+msgid "Construction"
+msgstr "Сооружение"
+
+#: rrd_xml_parser\parsers\names.py:9 rrd_xml_parser\parsers\names.py:20
+msgid "Uncompleted"
+msgstr "Объект незавершенного строительства"
+
+#: rrd_xml_parser\parsers\names.py:10
+msgid "SubBuilding"
+msgstr "ЧЗ"
+
+#: rrd_xml_parser\parsers\names.py:11
+msgid "SubConstruction"
+msgstr "ЧС"
+
+#: rrd_xml_parser\parsers\names.py:12 rrd_xml_parser\parsers\names.py:27
+msgid "OMSPoint"
+msgstr "ОМС"
+
+#: rrd_xml_parser\parsers\names.py:13
+msgid "SpatialData"
+msgstr "Квартал"
+
+#: rrd_xml_parser\parsers\names.py:14 rrd_xml_parser\parsers\names.py:21
+#: rrd_xml_parser\parsers\names.py:22 rrd_xml_parser\parsers\names.py:23
+#: rrd_xml_parser\parsers\names.py:24
+msgid "Bound"
+msgstr "Граница"
+
+#: rrd_xml_parser\parsers\names.py:15 rrd_xml_parser\parsers\names.py:25
+msgid "Zone"
+msgstr "Зона"
+
+#: rrd_xml_parser\parsers\names.py:26
+msgid "FormingParcel"
+msgstr "Образуемые"
+
+#: rrd_xml_parser\parsers\names.py:32
+msgid "type"
+msgstr "Тип"
+
+#: rrd_xml_parser\parsers\names.py:28
+msgid "Flat"
+msgstr "Помещение"
+
+#: rrd_xml_parser\parsers\names.py:28
+msgid "SubFlat"
+msgstr "ЧП"
+
+#: rrd_xml_parser\parsers\names.py:33
+msgid "registration_number"
+msgstr "Учетный номер"
+
+#: rrd_xml_parser\parsers\names.py:34
+msgid "registration_date"
+msgstr "Дата постановки на учет"
+
+#: rrd_xml_parser\parsers\names.py:35
+msgid "address"
+msgstr "Местоположение"
+
+#: rrd_xml_parser\parsers\names.py:36
+msgid "geometry"
+msgstr "Геометрия"
+
+#: rrd_xml_parser\parsers\names.py:37
+msgid "old_cadastralnumbers"
+msgstr "Номера из которых образован"
+
+#: rrd_xml_parser\parsers\names.py:38
+msgid "prev_cadastralnumbers"
+msgstr "Ранее присвоенные номера"
+
+#: rrd_xml_parser\parsers\names.py:39
+msgid "inner_cadastralnumbers"
+msgstr "Номера объектов недвижимости"
+
+#: rrd_xml_parser\parsers\names.py:40
+msgid "area"
+msgstr "Площадь"
+
+#: rrd_xml_parser\parsers\names.py:41
+msgid "category_code"
+msgstr "Категория.Код"
+
+#: rrd_xml_parser\parsers\names.py:42
+msgid "utilization_code"
+msgstr "Использование.Код"
+
+#: rrd_xml_parser\parsers\names.py:43
+msgid "utilization_bydoc"
+msgstr "Использование.По документу"
+
+#: rrd_xml_parser\parsers\names.py:44
+msgid "cost"
+msgstr "Стоимость"
+
+#: rrd_xml_parser\parsers\names.py:45
+msgid "neighbour_cadastralnumbers"
+msgstr "Номера смежных участков"
+
+#: rrd_xml_parser\parsers\names.py:46
+msgid "offspring_cadastralnumbers"
+msgstr "Номера образованных участков"
+
+#: rrd_xml_parser\parsers\names.py:47
+msgid "notes"
+msgstr "Особые отметки"
+
+#: rrd_xml_parser\parsers\names.py:48
+msgid "subtype"
+msgstr "Вид ЗУ"
+
+#: rrd_xml_parser\parsers\names.py:49
+msgid "subtype_code"
+msgstr "Вид ЗУ.Код"
+
+#: rrd_xml_parser\parsers\names.py:50
+msgid "parent_cadastralnumbers"
+msgstr "Номер единого землепользования"
+
+#: rrd_xml_parser\parsers\names.py:51
+msgid "entry_cadastralnumbers"
+msgstr "Номера входящих в единое землепользование"
+
+#: rrd_xml_parser\parsers\names.py:52
+msgid "category"
+msgstr "Категория"
+
+#: rrd_xml_parser\parsers\names.py:53
+msgid "utilization"
+msgstr "Разрешенное использование"
+
+#: rrd_xml_parser\parsers\names.py:54
+msgid "assignation"
+msgstr "Назначение"
+
+#: rrd_xml_parser\parsers\names.py:55
+msgid "assignation_code"
+msgstr "Назначение.Код"
+
+#: rrd_xml_parser\parsers\names.py:56
+msgid "p_nmb"
+msgstr "Номер"
+
+#: rrd_xml_parser\parsers\names.py:57
+msgid "p_name"
+msgstr "Название"
+
+#: rrd_xml_parser\parsers\names.py:58
+msgid "p_klass"
+msgstr "Класс"
+
+#: rrd_xml_parser\parsers\names.py:59
+msgid "description"
+msgstr "Наименование"
+

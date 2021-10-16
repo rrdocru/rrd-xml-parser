@@ -1,0 +1,5 @@
+lxml==4.6.3
+Shapely==1.7.1
+rrd-utils==1.0.0
+rrd-xml-sniffer==1.0.0
+rrd-xsd-dict==1.0.0
